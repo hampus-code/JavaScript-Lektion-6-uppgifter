@@ -9,7 +9,17 @@ function varItems() {
 
     var decimalnumber = 0.7;
 
-    var text = "A Text Variable"
+    var varText = " A Text Variable "
 
     var boolean = true
+
+    alert(wholenumber + decimalnumber + varText + boolean)
+}
+
+function arrays() {
+
+    var score = [10, 27, "Howdy", 96, 58, "An array text"]
+
+    alert(score[5])
+    
 }
